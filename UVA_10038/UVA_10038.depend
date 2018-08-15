@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534243822 source:/media/said/E470FC8970FC6428/UVA/UVA_10038/main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<algorithm>
+
