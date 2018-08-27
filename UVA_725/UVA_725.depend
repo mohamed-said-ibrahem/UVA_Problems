@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535379432 source:/home/said/Desktop/UVA_725/main.cpp
+	<iostream>
+	<stdio.h>
+
